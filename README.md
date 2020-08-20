@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxschmitt" alt="mxschmitt" /> </p>
 
-- 🔭 I’m currently working on [Playwright Python](https://github.com/microsoft/playwright-python)
+- 🔭 I’m currently working on [Playwright for Python](https://github.com/microsoft/playwright-python)
 
-- 🤝 I’m looking for help with **Playwright Go (to be released)**
+- 🤝 I’m looking for help with **Playwright for Go (to be released)**
 
 - 📝 I regulary write articles on [https://playwright.tech](https://playwright.tech)
 
