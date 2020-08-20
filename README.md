@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Open Source enthusiast, security researcher and full stack web developer from Germany / Berlin.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxschmitt" alt="mxschmitt" /> </p>
-
 - 🔭 I’m currently working on [Playwright for Python](https://github.com/microsoft/playwright-python)
 
 - 🤝 I’m looking for help with **Playwright for Go (to be released)**
@@ -30,4 +28,6 @@
 <a href="https://dev.to/mxschmitt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mxschmitt" height="30" width="30" /></a>
 <a href="https://twitter.com/maxibanki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxibanki" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/max-schmitt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/max-schmitt/" height="30" width="30" /></a>
+<img align="center" src="https://komarev.com/ghpvc/?username=mxschmitt" alt="mxschmitt" />
 </p>
+
