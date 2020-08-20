@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate software developer from Germany / Berlin.</h3>
+<h3 align="center">Open Source enthusiast, security researcher and full stack web developer from Germany / Berlin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxschmitt" alt="mxschmitt" /> </p>
 
