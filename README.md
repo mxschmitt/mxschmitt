@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Playwright / Go / React / Python / TypeScript**
 
-- 📫 How to reach me **max@schmitt.mx**
-
 - ⚡ Fun fact **I like cats, and my birthday is on International Cat Day!**
 
 ### Blogs posts
