@@ -3,7 +3,7 @@
 
 - 🔭&nbsp;I’m currently working on [Playwright for Python](https://github.com/microsoft/playwright-python)
 
-- 🤝&nbsp;I’m looking for help with **Playwright for Go (to be released)**
+- 🤝&nbsp;I’m looking for feedback on **[Playwright for Go](https://github.com/mxschmitt/playwright-go)**
 
 - 📝&nbsp;I regulary write articles on [https://playwright.tech](https://playwright.tech)
 
