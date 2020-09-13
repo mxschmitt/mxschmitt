@@ -9,7 +9,7 @@
 
 - 💬&nbsp;Ask me about **Playwright / Go / React / Python / TypeScript**
 
-- ⚡&nbsp;Fun fact **I like cats, and my birthday is on International Cat Day!**
+- ⚡&nbsp;Fun fact **I like cats, and my birthday is on the International Cat Day!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
