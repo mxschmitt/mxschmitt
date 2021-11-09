@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Troubleshoot your Playwright or Puppeteer tests and find the root cause for failing tests](https://dev.to/mxschmitt/troubleshoot-your-playwright-tests-and-find-the-root-cause-for-failing-tests-4082)
 - [Monitoring with Playwright on Checkly made easy](https://dev.to/mxschmitt/monitoring-with-playwright-on-checkly-made-easy-51ao)
-- [Automate Chromium, Firefox, and WebKit with Go (preview)](https://dev.to/mxschmitt/automate-chromium-firefox-and-webkit-with-go-preview-j9)
+- [Automate Chromium, Firefox, and WebKit with Go &lpar;preview&rpar;](https://dev.to/mxschmitt/automate-chromium-firefox-and-webkit-with-go-preview-j9)
 - [Automate web browsers with Python and Playwright](https://dev.to/mxschmitt/automate-web-browsers-with-python-and-playwright-372c)
 - [Using Playwright on Heroku](https://dev.to/mxschmitt/using-playwright-on-heroku-127d)
 <!-- BLOG-POST-LIST:END -->
