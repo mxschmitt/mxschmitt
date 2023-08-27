@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Open Source enthusiast, security researcher and full stack web developer from Germany / Berlin.</h3>
 
-- 🔭&nbsp;I’m currently working on [Playwright for .NET](https://github.com/microsoft/playwright-dotnet) and [Playwright for Python](https://github.com/microsoft/playwright-python)
+- 🔭&nbsp;I’m currently working on [Playwright](https://github.com/microsoft/playwright), [Playwright for .NET](https://github.com/microsoft/playwright-dotnet) and [Playwright for Python](https://github.com/microsoft/playwright-python)
 
-- 💬&nbsp;Ask me about **Playwright / Go / React / Python / TypeScript**
+- 💬&nbsp;Ask me about **Playwright / Go / React / Python / .NET / TypeScript**
 
-- ⚡&nbsp;Fun fact **I like cats (now also dogs!), and my birthday is on the International Cat Day!**
+- ⚡&nbsp;Fun fact **I like cats and my birthday is on the International Cat Day!**
 
 ### Blogs posts
 
