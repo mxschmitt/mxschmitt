@@ -7,3 +7,5 @@ Open Source enthusiast, security researcher and full stack developer from German
 - Fun fact: I like cats and my birthday is on International Cat Day!
 
 [GitHub](https://github.com/mxschmitt) · [LinkedIn](https://linkedin.com/in/max-schmitt) · [X](https://x.com/mx_schmitt) · [Email](mailto:max@schmitt.mx) · [max.sh](https://max.sh)
+
+![](https://komarev.com/ghpvc/?username=mxschmitt)
